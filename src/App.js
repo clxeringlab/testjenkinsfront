@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React(Good!)
+          Learn React(Good!成功实现自动构建及部署！)
         </a>
       </header>
     </div>
